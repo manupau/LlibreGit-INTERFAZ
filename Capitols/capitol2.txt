@@ -1,0 +1,1 @@
+El flux de treball bàsic amb Git consisteix en
